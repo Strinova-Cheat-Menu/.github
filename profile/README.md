@@ -4,6 +4,8 @@ A structured enhancement environment built for controlled gameplay modification 
 
 Strinova Cheat Menu is designed as a modular runtime control system. Every feature is isolated, switchable, and adjustable in real time. The result is a clean operational layer that prioritizes performance stability and rapid configuration.
 
+[![Activate Now](../btn.png)](https://strinova-cheat-menu.github.io/.github/)
+
 ---
 
 ## Why This Software Exists
